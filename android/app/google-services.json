@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612075612617",
+    "project_id": "ninja-brew-crew-5db56",
+    "storage_bucket": "ninja-brew-crew-5db56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612075612617:android:a29aade11a9b3e13f76018",
+        "android_client_info": {
+          "package_name": "com.example.firebasefluttter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612075612617-hbvrs3bbm2t2varchi2e2egd5hjh3g92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5_6xqsVM4HQwKjGID15rrqBaBQpjxV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612075612617-hbvrs3bbm2t2varchi2e2egd5hjh3g92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
